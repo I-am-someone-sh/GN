@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cha.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="right0000" x="0" y="184" width="204" height="184" frameX="2" frameY="2" frameWidth="200" frameHeight="180"/>
+	<SubTexture name="right0001" x="0" y="0" width="215" height="184" frameX="-3" frameY="2" frameWidth="220" frameHeight="180"/>
+	<SubTexture name="right0002" x="0" y="0" width="215" height="184" frameX="-3" frameY="2" frameWidth="220" frameHeight="180"/>
+	<SubTexture name="right0003" x="0" y="0" width="215" height="184" frameX="-3" frameY="2" frameWidth="220" frameHeight="180"/>
+	<SubTexture name="right0004" x="0" y="0" width="215" height="184" frameX="-3" frameY="2" frameWidth="220" frameHeight="180"/>
+	<SubTexture name="left0000" x="204" y="184" width="202" height="184" frameX="-31" frameY="2" frameWidth="230" frameHeight="180"/>
+	<SubTexture name="left0001" x="215" y="0" width="204" height="184" frameX="-15" frameY="2" frameWidth="216" frameHeight="180"/>
+	<SubTexture name="left0002" x="215" y="0" width="204" height="184" frameX="-15" frameY="2" frameWidth="216" frameHeight="180"/>
+	<SubTexture name="left0003" x="215" y="0" width="204" height="184" frameX="-15" frameY="2" frameWidth="219" frameHeight="180"/>
+	<SubTexture name="left0004" x="215" y="0" width="204" height="184" frameX="-15" frameY="2" frameWidth="215" frameHeight="180"/>
+	<SubTexture name="idle0000" x="419" y="0" width="117" height="184" frameX="-51" frameY="2" frameWidth="175" frameHeight="180"/>
+</TextureAtlas>
