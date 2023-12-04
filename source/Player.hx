@@ -6,7 +6,7 @@ import flixel.FlxSprite;
 class Player extends FlxSprite {
     var fps = 24; //fvv没吃药做的
 	var delay:FlxTimer;
-    var sec:Float = 0.15;
+    var sec:Float = 0.24;
 
     public function new() {
         super();
